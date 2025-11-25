@@ -1,48 +1,63 @@
-### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm oprah14, Front_End Developer :computer:
-  </br>
-  <div>
-  <a href="https://google.com/" target="_blank">
-<kbd> <br> Personal Website <br> </kbd>
-  </a>
-  </div>
-<p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
- </p>
-</br>
+![👾 Levent | Full-Stack & AI Developer](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=oprah14&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprah14&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oprah14.oprah14)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👾 Levent | Full-Stack & AI Developer
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-## Skills
+---
+Hey there! I'm **Levent**, a passionate full-stack developer focused on **AI Engineering** and **Embedded Systems**.  
+I love creating tools that mix intelligence, automation, and a bit of chaos — all wrapped in clean, efficient code ⚡  
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="42" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+---
 
-</p>
 
-## Contact Me
+## 🧬 About Me
+- 🔭 Currently building **CodeFlux AI** — a next-gen coding assistant.  
+- 🌱 Learning **AI Pentesting**, **LLM Security**, and advanced **system integration**.  
+- 🧩 Maker of **BMO (Good & Bad Mode AI)** project for Raspberry Pi.  
+- ⚡ Motto: *“Hack the system, but build something better.”*  
 
-<p align="center">
-  <a href="https://google.com/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
-  <a href="leventkingman@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
-</p>
+---
 
-<p align="right">
-  <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
+
+
+## 🧰 Tools & Tech
+- 🌐 **Full-Stack Dev:** `React`, `Node.js`, `Express`, `Flask`, `TailwindCSS`
+- 🧠 **AI & ML:** `TensorFlow`, `PyTorch`, `LangChain`, `OpenAI API``
+- 🐧 **Environments:** `Kali Linux`, `Ubuntu`, `Windows`, `Docker`, `Git`
+
+---
+
+ **<h3 align="center">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="36" alt="JavaScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="36" alt="Python" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="36" alt="Java" style="margin-right: 12px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="36" alt="C" style="margin-right: 12px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="36" alt="C++" style="margin-right: 12px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="36" alt="PHP" style="margin-right: 12px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="36" alt="TypeScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="36" alt="React" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="36" alt="Tailwind CSS" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="36" alt="Bootstrap" style="margin-right: 12px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="36" alt="jQuery" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="36" alt="Node.js" style="margin-right: 12px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="36" alt="TensorFlow" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" height="36" alt="Cypress" style="margin-right: 12px"></div>
+
+
+---
+
+💀 *"The system fears the mind that questions it."*
+
+---
+
+
+## 🌐 Connect
+💬 Discord: **aghand**  
+🚀 GitHub: [github.com/oprah14](https://github.com/oprah14)
+
+---
+
+
+## 📫 Communication
+
+* E-posta: leventkocoglu24@gmail.com
+* LinkedIn:
+
+---
+
+
