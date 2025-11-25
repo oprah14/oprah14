@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👾 Levent | Full-Stack & AI Developer
+          Levent | Full-Stack & AI Developer
       </h1>
     </summary>
   </ul>
