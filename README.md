@@ -48,7 +48,7 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 
 
 ## 🌐 Connect
-💬 Discord: **aghand**  
+💬 Discord: **marjinal.bey**  
 🚀 GitHub: [github.com/oprah14](https://github.com/oprah14)
 
 ---
